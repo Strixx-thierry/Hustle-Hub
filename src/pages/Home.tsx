@@ -20,7 +20,7 @@ const Home = () => (
     <CategoryIcons />
     <CategoryChips />
     <LocationCards />
-    <ProgressBar />
+    {/* <ProgressBar /> */}
   </div>
     
   </>
